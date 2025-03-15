@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "app_timer.h": "c",
+        "misc.h": "c",
+        "format": "c",
+        "thread": "c",
+        "app_modbus.h": "c",
+        "app_net.h": "c",
+        "board.h": "c",
+        "m24c32.h": "c",
+        "w5500.h": "c"
+    }
+}
